@@ -1,5 +1,3 @@
-Certainly! Here's a basic README template for your Amazon ASIN Image Scraper repository. You can customize and expand upon it as needed:
-
 ```markdown
 # Amazon ASIN Image Scraper
 
