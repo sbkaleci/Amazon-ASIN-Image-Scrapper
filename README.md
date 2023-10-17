@@ -54,12 +54,8 @@ This Python script allows you to scrape product image URLs from Amazon based on 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Author
-[Your Name]
-
 ## Acknowledgments
 - This project uses the [Selenium](https://selenium-python.readthedocs.io/) library for web automation.
 - It utilizes [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) for web scraping.
 - Data processing is performed using [Pandas](https://pandas.pydata.org/).
 
-Feel free to customize the README with your name and other information. Make sure to add a link to your LinkedIn or personal website if you'd like to showcase your work.
