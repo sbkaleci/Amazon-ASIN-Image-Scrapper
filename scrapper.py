@@ -42,6 +42,6 @@ def select_file():
         root.destroy()
 
 root = tk.Tk()
-select_file_button = tk.Button(root, text="Excel dosyasi sec", command=select_file)
+select_file_button = tk.Button(root, text="Select Excel File", command=select_file)
 select_file_button.pack()
 root.mainloop()
